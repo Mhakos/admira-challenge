@@ -1,0 +1,95 @@
+{"ts":"2025-09-06T15:21:23.811Z","method":"GET","url_base":"https://api.coingecko.com/api/v3/coins/bitcoin/market_chart/range","status":401,"duration_ms":478}
+{"ts":"2025-09-06T15:21:24.767Z","method":"GET","url_base":"https://api.coingecko.com/api/v3/coins/bitcoin/market_chart/range","status":401,"duration_ms":117}
+{"ts":"2025-09-06T15:21:51.807Z","method":"GET","url_base":"https://api.coingecko.com/api/v3/coins/bitcoin/market_chart/range","status":400,"duration_ms":1467}
+{"ts":"2025-09-06T15:22:05.442Z","method":"GET","url_base":"https://api.coingecko.com/api/v3/coins/bitcoin/market_chart/range","status":200,"duration_ms":241}
+{"ts":"2025-09-06T15:22:12.850Z","method":"GET","url_base":"https://api.coingecko.com/api/v3/coins/bitcoin/market_chart/range","status":401,"duration_ms":210}
+{"ts":"2025-09-06T15:22:13.516Z","method":"GET","url_base":"https://api.coingecko.com/api/v3/coins/bitcoin/market_chart/range","status":401,"duration_ms":120}
+{"ts":"2025-09-06T15:51:14.926Z","error":"Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"}
+{"ts":"2025-09-06T15:51:15.132Z","error":"Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"}
+{"ts":"2025-09-06T16:09:58.857Z","status":401,"error":{"status":{"timestamp":"2025-09-06T16:09:58.706+00:00","error_code":10012,"error_message":"Your request exceeds the allowed time range. Public API users are limited to querying historical data within the past 365 days. Upgrade to a paid plan to enjoy full historical data access: https://www.coingecko.com/en/api/pricing. "}}}
+{"ts":"2025-09-06T16:09:59.006Z","status":401,"error":{"status":{"timestamp":"2025-09-06T16:09:58.879+00:00","error_code":10012,"error_message":"Your request exceeds the allowed time range. Public API users are limited to querying historical data within the past 365 days. Upgrade to a paid plan to enjoy full historical data access: https://www.coingecko.com/en/api/pricing. "}}}
+{"ts":"2025-09-06T16:14:17.677Z","status":401,"error":{"status":{"timestamp":"2025-09-06T16:14:17.553+00:00","error_code":10012,"error_message":"Your request exceeds the allowed time range. Public API users are limited to querying historical data within the past 365 days. Upgrade to a paid plan to enjoy full historical data access: https://www.coingecko.com/en/api/pricing. "}}}
+{"ts":"2025-09-06T16:14:17.822Z","status":401,"error":{"status":{"timestamp":"2025-09-06T16:14:17.702+00:00","error_code":10012,"error_message":"Your request exceeds the allowed time range. Public API users are limited to querying historical data within the past 365 days. Upgrade to a paid plan to enjoy full historical data access: https://www.coingecko.com/en/api/pricing. "}}}
+{"url":"https://api.coingecko.com/api/v3/coins/bitcoin/market_chart/range?vs_currency=usd&from=1704067200&to=1711843200","status":401,"source":"CoinGecko","timestamp":"2025-09-06T16:28:19.873Z"}
+{"url":"https://api.coingecko.com/api/v3/coins/bitcoin/market_chart/range?vs_currency=usd&from=1704067200&to=1711843200","status":401,"source":"CoinGecko","timestamp":"2025-09-06T16:28:20.001Z"}
+{"url":"https://api.coingecko.com/api/v3/coins/ethereum/market_chart/range?vs_currency=usd&from=1704067200&to=1711843200","status":401,"source":"CoinGecko","timestamp":"2025-09-06T16:28:31.909Z"}
+{"url":"https://api.coingecko.com/api/v3/coins/ethereum/market_chart/range?vs_currency=usd&from=1756684800&to=1711843200","status":400,"source":"CoinGecko","timestamp":"2025-09-06T16:28:43.063Z"}
+{"url":"https://api.coingecko.com/api/v3/coins/ethereum/market_chart/range?vs_currency=usd&from=1756684800&to=1759190400","status":200,"source":"CoinGecko","timestamp":"2025-09-06T16:29:12.706Z"}
+{"ts":"2025-09-06T16:34:11.915Z","error":"Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"}
+{"ts":"2025-09-06T16:34:12.240Z","error":"Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"}
+{"ts":"2025-09-06T16:35:26.779Z","error":"Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"}
+{"ts":"2025-09-06T16:35:39.402Z","error":"Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"}
+{"ts":"2025-09-06T16:42:30.064Z","error":"Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"}
+{"ts":"2025-09-06T16:42:30.339Z","error":"Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"}
+{"ts":"2025-09-06T16:42:50.306Z","error":"Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"}
+{"ts":"2025-09-06T16:47:51.983Z","status":502,"error":"La API externa devolvió un formato inesperado (probablemente HTML por rate-limiting)."}
+{"ts":"2025-09-06T16:47:52.167Z","status":502,"error":"La API externa devolvió un formato inesperado (probablemente HTML por rate-limiting)."}
+{"ts":"2025-09-06T16:54:20.688Z","status":502,"error":"La API externa devolvió un formato inesperado (probablemente HTML por rate-limiting)."}
+{"ts":"2025-09-06T16:54:30.415Z","status":502,"error":"La API externa devolvió un formato inesperado (probablemente HTML por rate-limiting)."}
+{"ts":"2025-09-06T16:55:45.671Z","status":502,"error":"La API externa devolvió un formato inesperado (probablemente HTML por rate-limiting)."}
+{"ts":"2025-09-06T16:55:45.882Z","status":502,"error":"La API externa devolvió un formato inesperado (probablemente HTML por rate-limiting)."}
+{"ts":"2025-09-06T16:56:03.597Z","status":502,"error":"La API externa devolvió un formato inesperado (probablemente HTML por rate-limiting)."}
+{"ts":"2025-09-06T16:56:11.648Z","status":502,"error":"La API externa devolvió un formato inesperado (probablemente HTML por rate-limiting)."}
+{"ts":"2025-09-06T17:07:44.124Z","status":502,"error":"La API externa devolvió un formato inesperado (probablemente HTML por rate-limiting)."}
+{"ts":"2025-09-06T17:07:44.345Z","status":502,"error":"La API externa devolvió un formato inesperado (probablemente HTML por rate-limiting)."}
+{"ts":"2025-09-06T17:08:27.126Z","status":502,"error":"La API externa devolvió un formato inesperado (probablemente HTML por rate-limiting)."}
+{"ts":"2025-09-06T17:12:16.916Z","status":502,"error":"La API externa devolvió un formato inesperado (probablemente HTML por rate-limiting)."}
+{"ts":"2025-09-06T17:12:36.267Z","status":502,"error":"La API externa devolvió un formato inesperado (probablemente HTML por rate-limiting)."}
+{"ts":"2025-09-06T17:12:36.469Z","status":502,"error":"La API externa devolvió un formato inesperado (probablemente HTML por rate-limiting)."}
+{"ts":"2025-09-06T17:12:51.120Z","status":502,"error":"La API externa devolvió un formato inesperado (probablemente HTML por rate-limiting)."}
+{"ts":"2025-09-06T17:13:02.611Z","status":502,"error":"La API externa devolvió un formato inesperado (probablemente HTML por rate-limiting)."}
+{"ts":"2025-09-06T17:23:48.843Z","method":"GET","source":"FakeStoreAPI","status":200,"duration_ms":474}
+{"ts":"2025-09-06T17:23:50.175Z","method":"GET","source":"FakeStoreAPI","status":200,"duration_ms":279}
+{"ts":"2025-09-06T17:23:58.705Z","method":"GET","source":"FakeStoreAPI","status":200,"duration_ms":378}
+{"ts":"2025-09-06T17:23:59.802Z","method":"GET","source":"FakeStoreAPI","status":200,"duration_ms":281}
+{"ts":"2025-09-06T17:27:44.043Z","method":"GET","source":"FakeStoreAPI","status":200,"duration_ms":568}
+{"ts":"2025-09-06T17:27:45.071Z","method":"GET","source":"FakeStoreAPI","status":200,"duration_ms":394}
+{"ts":"2025-09-06T17:27:53.376Z","method":"GET","source":"FakeStoreAPI","status":200,"duration_ms":365}
+{"ts":"2025-09-06T17:27:56.817Z","method":"GET","source":"FakeStoreAPI","status":200,"duration_ms":281}
+{"ts":"2025-09-06T17:28:02.324Z","method":"GET","source":"FakeStoreAPI","status":200,"duration_ms":379}
+{"ts":"2025-09-06T17:29:29.810Z","method":"GET","source":"FakeStoreAPI","status":200,"duration_ms":444}
+{"ts":"2025-09-06T17:30:05.655Z","method":"GET","source":"FakeStoreAPI","status":200,"duration_ms":361}
+{"ts":"2025-09-06T17:30:29.165Z","method":"GET","source":"FakeStoreAPI","status":200,"duration_ms":638}
+{"ts":"2025-09-06T17:30:42.426Z","method":"GET","source":"FakeStoreAPI","status":200,"duration_ms":510}
+{"ts":"2025-09-06T17:30:46.139Z","method":"GET","source":"FakeStoreAPI","status":200,"duration_ms":317}
+{"ts":"2025-09-06T18:03:02.046Z","method":"GET","source":"FakeStoreAPI","status":200,"duration_ms":774}
+{"ts":"2025-09-06T18:03:02.925Z","method":"GET","source":"FakeStoreAPI","status":200,"duration_ms":280}
+{"ts":"2025-09-06T18:11:24.483Z","method":"GET","source":"FakeStoreAPI","status":200,"duration_ms":387}
+{"ts":"2025-09-06T18:11:37.523Z","method":"GET","source":"FakeStoreAPI","status":200,"duration_ms":634}
+{"ts":"2025-09-06T18:11:46.962Z","method":"GET","source":"FakeStoreAPI","status":200,"duration_ms":402}
+{"ts":"2025-09-06T18:11:49.526Z","method":"GET","source":"FakeStoreAPI","status":200,"duration_ms":295}
+{"ts":"2025-09-06T18:12:09.946Z","method":"GET","source":"FakeStoreAPI","status":200,"duration_ms":636}
+{"ts":"2025-09-06T18:13:28.595Z","method":"GET","source":"FakeStoreAPI","status":200,"duration_ms":422}
+{"ts":"2025-09-06T18:13:54.751Z","method":"GET","source":"FakeStoreAPI","status":200,"duration_ms":370}
+{"ts":"2025-09-06T18:14:12.249Z","method":"GET","source":"FakeStoreAPI","status":200,"duration_ms":659}
+{"ts":"2025-09-06T23:46:55.436Z","method":"GET","source":"FakeStoreAPI","status":200,"duration_ms":776}
+{"ts":"2025-09-06T23:46:56.302Z","method":"GET","source":"FakeStoreAPI","status":200,"duration_ms":260}
+{"ts":"2025-09-06T23:47:09.759Z","method":"GET","source":"FakeStoreAPI","status":200,"duration_ms":604}
+{"ts":"2025-09-07T00:22:24.261Z","method":"GET","source":"FakeStoreAPI","status":200,"duration_ms":601}
+{"ts":"2025-09-07T00:22:26.100Z","method":"GET","source":"FakeStoreAPI","status":200,"duration_ms":262}
+{"ts":"2025-09-07T00:23:25.333Z","method":"GET","source":"FakeStoreAPI","status":200,"duration_ms":620}
+{"ts":"2025-09-07T01:39:46.797Z","method":"GET","source":"FakeStoreAPI","status":200,"duration_ms":785}
+{"ts":"2025-09-07T01:39:47.841Z","method":"GET","source":"FakeStoreAPI","status":200,"duration_ms":280}
+{"ts":"2025-09-07T01:39:54.179Z","method":"GET","source":"FakeStoreAPI","status":200,"duration_ms":608}
+{"ts":"2025-09-07T01:40:16.348Z","method":"GET","source":"FakeStoreAPI","status":200,"duration_ms":641}
+{"ts":"2025-09-07T01:40:25.472Z","method":"GET","source":"FakeStoreAPI","status":200,"duration_ms":628}
+{"ts":"2025-09-07T01:40:28.294Z","method":"GET","source":"FakeStoreAPI","status":200,"duration_ms":277}
+{"ts":"2025-09-07T01:40:36.440Z","method":"GET","source":"FakeStoreAPI","status":200,"duration_ms":475}
+{"ts":"2025-09-07T01:40:51.744Z","method":"GET","source":"FakeStoreAPI","status":200,"duration_ms":540}
+{"ts":"2025-09-07T01:41:31.932Z","method":"GET","source":"FakeStoreAPI","status":200,"duration_ms":414}
+{"ts":"2025-09-07T01:41:48.931Z","method":"GET","source":"FakeStoreAPI","status":200,"duration_ms":418}
+{"ts":"2025-09-07T02:09:56.524Z","method":"GET","source":"FakeStoreAPI","status":200,"duration_ms":633}
+{"ts":"2025-09-07T02:09:57.397Z","method":"GET","source":"FakeStoreAPI","status":200,"duration_ms":280}
+{"ts":"2025-09-07T02:10:27.311Z","method":"GET","source":"FakeStoreAPI","status":200,"duration_ms":623}
+{"ts":"2025-09-07T02:13:26.783Z","method":"GET","source":"FakeStoreAPI","status":200,"duration_ms":777}
+{"ts":"2025-09-07T02:21:15.226Z","method":"GET","source":"FakeStoreAPI","status":200,"duration_ms":627}
+{"ts":"2025-09-07T02:21:16.061Z","method":"GET","source":"FakeStoreAPI","status":200,"duration_ms":262}
+{"ts":"2025-09-07T02:26:45.052Z","method":"GET","source":"FakeStoreAPI","status":200,"duration_ms":719}
+{"ts":"2025-09-07T02:26:51.333Z","method":"GET","source":"FakeStoreAPI","status":200,"duration_ms":400}
+{"ts":"2025-09-07T02:26:58.617Z","method":"GET","source":"FakeStoreAPI","status":200,"duration_ms":390}
+{"ts":"2025-09-07T02:27:05.231Z","method":"GET","source":"FakeStoreAPI","status":200,"duration_ms":422}
+{"ts":"2025-09-07T02:27:18.781Z","method":"GET","source":"FakeStoreAPI","status":200,"duration_ms":718}
+{"ts":"2025-09-07T02:27:58.601Z","method":"GET","source":"FakeStoreAPI","status":200,"duration_ms":459}
+{"ts":"2025-09-07T02:27:59.487Z","method":"GET","source":"FakeStoreAPI","status":200,"duration_ms":289}
+{"ts":"2025-09-07T02:28:22.785Z","method":"GET","source":"FakeStoreAPI","status":200,"duration_ms":913}
+{"ts":"2025-09-07T02:28:39.122Z","method":"GET","source":"FakeStoreAPI","status":200,"duration_ms":405}
